@@ -1,0 +1,17 @@
+# Office lock files (Word writes these next to an open document)
+~$*
+
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Scratch
+*.tmp
+*.log
+/tmp/
