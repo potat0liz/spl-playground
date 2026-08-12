@@ -5,14 +5,19 @@ install, no trial licence, no server. Open the HTML file and start typing SPL.
 
 Built for Splunk Core Certified Power User revision.
 
-## Running it
+## [Open it now](https://luppieliz.github.io/spl-playground/)
+
+**https://luppieliz.github.io/spl-playground/** — nothing to install, no sign-up.
+
+## Running it offline
 
 Download [`dist/index.html`](dist/index.html) and open it. That single file is
 the whole application: no install, no build step, no network access, no server.
-It works offline and from a `file://` URL.
+It works offline and from a `file://` URL, so it is fine on an air-gapped
+machine.
 
-To host it, drop that one file anywhere static (GitHub Pages, S3, any web
-server). There is nothing to configure.
+To host your own copy, drop that one file anywhere static. There is nothing to
+configure.
 
 ## No dependencies, and nothing to trust
 
