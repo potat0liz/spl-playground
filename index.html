@@ -1,0 +1,36 @@
+<!doctype html>
+<!--
+  GitHub Pages landing page.
+
+  The application itself is the single file dist/index.html. This page only
+  forwards to it, so that the repository root URL works as a live link and the
+  bundle stays in one canonical place rather than being duplicated here.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SPL Playground</title>
+<meta name="description" content="Practise Splunk SPL in your browser. A real SPL interpreter with generated sample data, a command reference and 25 auto-graded exercises.">
+<link rel="canonical" href="dist/index.html">
+<meta http-equiv="refresh" content="0; url=dist/index.html">
+<style>
+  body {
+    margin: 0; min-height: 100vh; display: grid; place-items: center;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    background: #f4f6f5; color: #191f1d;
+  }
+  @media (prefers-color-scheme: dark) { body { background: #141817; color: #e5eae7; } }
+  a { color: #159c6f; }
+  @media (prefers-color-scheme: dark) { a { color: #2fbd8a; } }
+  .box { text-align: center; padding: 24px; }
+</style>
+</head>
+<body>
+  <div class="box">
+    <p>Loading the SPL Playground.</p>
+    <p>If nothing happens, <a href="dist/index.html">open it directly</a>.</p>
+  </div>
+  <script>location.replace('dist/index.html');</script>
+</body>
+</html>
