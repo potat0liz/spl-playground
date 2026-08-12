@@ -5,9 +5,9 @@ install, no trial licence, no server. Open the HTML file and start typing SPL.
 
 Built for Splunk Core Certified Power User revision.
 
-## [Open it now](https://luppieliz.github.io/spl-playground/)
+## [Open it now](https://potat0liz.github.io/spl-playground/)
 
-**https://luppieliz.github.io/spl-playground/** — nothing to install, no sign-up.
+**https://potat0liz.github.io/spl-playground/** — nothing to install, no sign-up.
 
 ## Running it offline
 
