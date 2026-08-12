@@ -7,7 +7,7 @@ Built for Splunk Core Certified Power User revision.
 
 ## [Open it now](https://potat0liz.github.io/spl-playground/)
 
-**https://potat0liz.github.io/spl-playground/** — nothing to install, no sign-up.
+**https://potat0liz.github.io/spl-playground/** — no installation and sign up required.
 
 ## Running it offline
 
